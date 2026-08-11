@@ -1,9 +1,13 @@
 ## Hello!
-👋 I'm Artem. I live in Barcelona and I really really *really* love coding stuff, engineering systemic solutions and videogame development (since it kinda has those two baked-in 😅)
+👋 I'm Artem. I live in Barcelona and I really really *really* love coding.
 
-👀 But now, I'm really getting into [Data Science](https://github.com/DISN-kolo/dslr) & [Machine Learning](https://github.com/DISN-kolo/Learn2Slither)...
+### What speaks to me:
+- Systemic solutions 👨‍💻 -> pretty much all the projects 😎
+- Videogame development 🎮 -> [take a look](https://github.com/DISN-kolo/movementgame)
+- Machine Learning 🤖 -> [check it out](https://github.com/DISN-kolo/Learn2Slither)
+- ...and **much** more!
 
-🔥 So, let's take a look at the stacks I've been using!
+## 🛠️ My tools
 
 ### Data science
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23fff.svg?style=for-the-badge&logo=opencv&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
