@@ -1,5 +1,5 @@
 ## Hello!
-👋 I'm Artem. I live in Barcelona and I really really *really* love coding.
+👋 I'm Artem. I live in Barcelona and I really really *really* love software.
 
 ### What speaks to me:
 - Systemic solutions 👨‍💻 -> pretty much all the projects 😎
