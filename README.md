@@ -3,7 +3,7 @@
 
 ### What speaks to me:
 - Systemic solutions 👨‍💻 -> pretty much all the projects 😎
-- Videogame development 🎮 -> [take a look](https://github.com/DISN-kolo/movementgame)
+- Videogame development 🎮 -> [take a look](https://github.com/DISN-kolo/in-the-shadows)
 - Machine Learning 🤖 -> [check it out](https://github.com/DISN-kolo/Learn2Slither)
 - Graphics programming 🧊 -> [visualize it here](https://github.com/DISN-kolo/minirt)
 - Fullstack development 🏗️ -> [this](https://github.com/albertpardo/ft_transcendence) and [that](https://github.com/DISN-kolo/gaming_tracker_example_fs)
