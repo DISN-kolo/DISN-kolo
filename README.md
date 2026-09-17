@@ -1,5 +1,5 @@
 ## Hello!
-👋 I'm Artem. I live in Barcelona and I really really *really* love software.
+👋 I'm Artem. I live in Barcelona and I'm a *huge* software fan. Lately - data science and machine learning, too!
 
 ### What speaks to me:
 - Systemic solutions 👨‍💻 -> pretty much all the projects 😎
